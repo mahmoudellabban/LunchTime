@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LunchTime/static/css/main.cd10b5f8.css",
+    "main.js": "/LunchTime/static/js/main.7acbac5b.js",
+    "index.html": "/LunchTime/index.html",
+    "main.cd10b5f8.css.map": "/LunchTime/static/css/main.cd10b5f8.css.map",
+    "main.7acbac5b.js.map": "/LunchTime/static/js/main.7acbac5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd10b5f8.css",
+    "static/js/main.7acbac5b.js"
+  ]
+}
